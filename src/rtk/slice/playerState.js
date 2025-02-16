@@ -1,7 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {
-  xp: 25,
+  xp: 100,
 };
 
 export const playerSlice = createSlice({
